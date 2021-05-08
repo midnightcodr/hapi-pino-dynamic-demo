@@ -1,5 +1,5 @@
 {
-  "name": "log-hapi-log",
+  "name": "hapi-pino-dynamic-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
